@@ -112,9 +112,14 @@ loan-portfolio-risk-tableau/
 │   └── data_source.md                 # Dataset info and download link
 │
 ├── screenshots/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   └── story.png
+│   ├── <img width="1880" height="800" alt="Screenshot 2026-04-30 011659" src="https://github.com/user-attachments/assets/52b82ea6-9c36-49cd-a367-aa18dd4a073e" />
+
+
+│   ├── <img width="1884" height="797" alt="Screenshot 2026-04-30 011731" src="https://github.com/user-attachments/assets/d562a867-7d69-4777-9b97-031c87b3d317" />
+
+
+│   └── <img width="1920" height="1080" alt="Screenshot 2026-04-29 122034" src="https://github.com/user-attachments/assets/6908cf82-cb7c-43e1-b886-488615b44352" />
+
 │
 └── README.md
 ---
