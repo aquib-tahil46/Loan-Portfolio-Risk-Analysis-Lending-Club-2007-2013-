@@ -63,10 +63,6 @@ loan_clean (staging)
 - Heatmap: Avg loan by income band × grade (INCLUDE LOD)
 - Multi-line: Cumulative disbursement by grade over time
 
-### Story — 3-Point Narrative
-1. Portfolio Overview — $791M disbursed, 18.5% High Risk exposure
-2. Growth Trends — Exponential post-2011, Mid Income × Grade B dominant
-3. Key Insight — Grade G: 30.4% NPA, only 2.4% recovery rate
 
 ---
 
@@ -133,7 +129,7 @@ loan-portfolio-risk-tableau/
 └── README.md
 ---
 ## 🔗 Links
-- 📊 **Live Dashboard:** [Tableau Public](YOUR_TABLEAU_URL_HERE)
+- 📊 **Live Dashboard:** [Tableau Public][(https://public.tableau.com/app/profile/aquib.tahil8642/viz/Lending_club_17775741205830/Dashboard1?publish=yes)]
 - 💼 **LinkedIn:** [Aquib Tahil](https://linkedin.com/in/aquib-tahil/)
 - 🐙 **GitHub:** [github.com/aquib-tahil46](https://github.com/aquib-tahil46)
 ---
