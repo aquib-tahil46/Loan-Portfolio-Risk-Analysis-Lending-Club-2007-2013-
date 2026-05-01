@@ -123,7 +123,15 @@ loan-portfolio-risk-tableau/
 │
 └── README.md
 ---
+## Dataset
+[Lending Club Loan Data — Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
 
+## Project Structure
+loan-portfolio-risk-tableau/
+├── sql/
+│   └── loan_portfolio_analysis.sql
+└── README.md
+---
 ## 🔗 Links
 - 📊 **Live Dashboard:** [Tableau Public](YOUR_TABLEAU_URL_HERE)
 - 💼 **LinkedIn:** [Aquib Tahil](https://linkedin.com/in/aquib-tahil/)
